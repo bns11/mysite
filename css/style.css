@@ -209,7 +209,7 @@ aside p {
 }
 
 .sub-menu a:hover {
-    color: #0bd;
+    color: #000;
 }
 
 @media (max-width: 600px) {
