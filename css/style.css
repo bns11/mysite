@@ -323,7 +323,7 @@ aside p {
 
 /* MENU */
 #menu {
-    background-image: url(../images/menu-bg.jpg);
+/*    background-image: url(../images/menu-bg.jpg);*/
     min-height: 100vh;
 }
 
